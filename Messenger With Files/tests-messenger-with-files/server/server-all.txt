@@ -1,0 +1,9 @@
+m
+Hello, client
+m
+Fine!
+f
+one-liners.txt
+m
+got it!
+x
